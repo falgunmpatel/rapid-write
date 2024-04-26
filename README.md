@@ -227,7 +227,7 @@ Project Link: [rapid-write](https://github.com/falgunmpatel/rapid-write)
 [contributors-url]: https://github.com/falgunmpatel/rapid-write/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/falgunmpatel/rapid-write.svg?style=for-the-badge
 [forks-url]: https://github.com/falgunmpatel/rapid-write/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/falgunmpatel/rapid-write.svg?style=for-the-badge
 [stars-url]: https://github.com/falgunmpatel/rapid-write/stargazers
 [issues-shield]: https://img.shields.io/github/issues/falgunmpatel/rapid-write.svg?style=for-the-badge
 [issues-url]: https://github.com/falgunmpatel/rapid-write/issues
