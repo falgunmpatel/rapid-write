@@ -74,33 +74,33 @@ State Management: Redux Toolkit
 
 ### Screenshots: 
 
-<figure style="border:2px solid white; padding: 20px; border-radius:10px;">
+<figure>
   <img src="images/HomePage.png" alt="home-page" style="width:100%">
-  <figcaption style="text-align:center; font-weight:700; margin-top: 20px;"> Home Page - All Users Posts</figcaption>
+  <figcaption> Home Page - All Users Posts</figcaption>
 </figure>
-<figure style="border:2px solid white; padding: 20px; border-radius:10px;">
-  <img src="images/UserPosts.png" alt="user-posts" style="width:100%">
-  <figcaption style="text-align:center;"> User's Posts</figcaption>
+
+<figure>  <img src="images/UserPosts.png" alt="user-posts" style="width:100%">
+  <figcaption> User's Posts</figcaption>
 </figure>
-<figure style="border:2px solid white; padding: 20px; border-radius:10px;">
-  <img src="images/OtherUserPost.png" alt="other-post" style="width:100%">
-  <figcaption style="text-align:center;">Other User's Post</figcaption>
+
+<figure>  <img src="images/OtherUserPost.png" alt="other-post" style="width:100%">
+  <figcaption>Other User's Post</figcaption>
 </figure>
-<figure style="border:2px solid white; padding: 20px; border-radius:10px;">
-  <img src="images/LoggedInUserPost.png" alt="user-post" style="width:100%">
-  <figcaption style="text-align:center;">User's Post - Edit/Delete Option</figcaption>
+
+<figure>  <img src="images/LoggedInUserPost.png" alt="user-post" style="width:100%">
+  <figcaption>User's Post - Edit/Delete Option</figcaption>
 </figure>
-<figure style="border:2px solid white; padding: 20px; border-radius:10px;">
-  <img src="images/LoginForm.png" alt="login-form" style="width:100%">
-  <figcaption style="text-align:center;"> Login Form</figcaption>
+
+<figure>  <img src="images/LoginForm.png" alt="login-form" style="width:100%">
+  <figcaption> Login Form</figcaption>
 </figure>
-<figure style="border:2px solid white; padding: 20px; border-radius:10px;">
-  <img src="images/SignUpForm.png" alt="signup-form" style="width:100%">
-  <figcaption style="text-align:center;"> Signup Form</figcaption>
+
+<figure>  <img src="images/SignUpForm.png" alt="signup-form" style="width:100%">
+  <figcaption> Signup Form</figcaption>
 </figure>
-<figure style="border:2px solid white; padding: 20px; border-radius:10px;">
-  <img src="images/PostForm.png" alt="post-form" style="width:100%">
-  <figcaption style="text-align:center;"> Post Form</figcaption>
+
+<figure>  <img src="images/PostForm.png" alt="post-form" style="width:100%">
+  <figcaption> Post Form</figcaption>
 </figure>
 
 
@@ -159,16 +159,6 @@ Download latest version of npm here:
     ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -246,10 +236,3 @@ Project Link: [rapid-write](https://github.com/falgunmpatel/rapid-write)
 [license-url]: https://github.com/falgunmpatel/rapid-write/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/falgunmpatel
-[home-page]: ./images/HomePage.png
-[own-post]: ./images/LoggedInUserPost.png
-[other-post]: images/OtherUserPost.png
-[own-posts]: ./images/UserPosts.png
-[login-form]: ./images/LoginForm.png
-[signup-form]: ./images/SignUpForm.png
-[post-form]: ./images/PostForm.png
