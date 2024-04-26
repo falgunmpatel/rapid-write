@@ -11,9 +11,9 @@ function Footer({ className }) {
         <div className="-m-6 flex flex-wrap">
           <div className="w-full p-6 md:w-1/2 lg:w-5/12">
             <div className="flex h-full flex-col justify-between">
-              <div className="mb-4 inline-flex items-center">
+              <Link to={"/"} className="mb-4 inline-flex items-center">
                 <Logo size="16" />
-              </div>
+              </Link>
               <div>
                 <p className="text-sm text-sky-200">
                   &copy; Copyright 2024. All Rights Reserved.
