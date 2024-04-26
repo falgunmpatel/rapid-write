@@ -204,9 +204,8 @@ Project Link: [rapid-write](https://github.com/falgunmpatel/rapid-write)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-  1. **React Playlist** @[ChaiAurCode](https://www.youtube.com/@chaiaurcode)
-  <br>
-**Mentor**: [Hitesh Choudhary](https://github.com/hiteshchoudhary)
+  1. **React Playlist** @[ChaiAurCode](https://www.youtube.com/@chaiaurcode) <br/>
+      **Mentor**: [Hitesh Choudhary](https://github.com/hiteshchoudhary)
 
   2. **Backend**: Docs @[Appwrite](https://appwrite.io/) 
 
@@ -232,7 +231,7 @@ Project Link: [rapid-write](https://github.com/falgunmpatel/rapid-write)
 [stars-url]: https://github.com/falgunmpatel/rapid-write/stargazers
 [issues-shield]: https://img.shields.io/github/issues/falgunmpatel/rapid-write.svg?style=for-the-badge
 [issues-url]: https://github.com/falgunmpatel/rapid-write/issues
-[license-shield]: https://img.shields.io/github/licence/falgunmpatel/rapid-write.svg?style=for-the-badge
-[license-url]: https://github.com/falgunmpatel/rapid-write/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/falgunmpatel/rapid-write.svg?style=for-the-badge
+[license-url]: https://github.com/falgunmpatel/rapid-write/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/falgunmpatel
