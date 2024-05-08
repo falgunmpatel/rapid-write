@@ -18,6 +18,7 @@ function Login() {
       const session = await authService.login(data);
       if (session) {
         const userData = await authService.getCurrentUser();
+        console.log(userData);
         if (userData) {
           dispatch(authLogin(userData));
         }
