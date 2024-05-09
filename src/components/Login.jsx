@@ -30,7 +30,7 @@ function Login() {
   };
 
   return (
-    <div className="flex items-center w-full max-w-6xl my-8 p-8 mx-auto gap-8">
+    <div className="flex flex-col sm:flex-row items-center w-full max-w-6xl my-8 p-8 mx-auto gap-8">
       <div className={`mx-auto w-full max-w-md bg-[#070448] rounded-xl p-10`}>
         <div className="mb-2 flex justify-center">
           <Logo width="100%" />

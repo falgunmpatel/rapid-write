@@ -38,8 +38,8 @@ function Header({ className }) {
   return (
     <header className={`shadow py-3 bg-inherit ${className}`}>
       <Container>
-        <nav className="flex">
-          <div className="mr-4">
+        <nav className="flex flex-wrap gap-4">
+          <div className="mx-auto sm:mx-0">
             <Link to="/">
               <Logo />
             </Link>
@@ -49,7 +49,7 @@ function Header({ className }) {
               return item.active ? (
                 <li key={index} className="text-stone-900">
                   <button
-                    className="inline-block px-6 py-2 duration-200 hover:bg-sky-700 rounded-full text-sky-200"
+                    className="inline-block px-6 py-2 duration-200 hover:bg-sky-700 rounded-full text-sky-200 text-xs sm:text-lg"
                     onClick={() => navigate(item.slug)}
                   >
                     {item.name}

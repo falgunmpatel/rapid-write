@@ -13,8 +13,13 @@ function LogoutBtn() {
     }
 
   return (
-    <button className='inline-block px-6 py-2 duration-200 hover:bg-sky-700 text-sky-200 rounded-full' onClick={logoutHandler}>LogoutBtn</button>
-  )
+    <button
+      className="inline-block px-6 py-2 duration-200 hover:bg-sky-700 text-sky-200 rounded-full text-xs sm:text-lg"
+      onClick={logoutHandler}
+    >
+      LogoutBtn
+    </button>
+  );
 }
 
 export default LogoutBtn
