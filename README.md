@@ -27,6 +27,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#demo-credentials">Demo Credentials</a></li>
+      </ul>
+      <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -47,6 +50,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
+<a name="about-the-project"></a>
 ## About The Project
 
 ### 🚀 Rapid Write 📝
@@ -60,10 +64,16 @@ Rapid Write is a dynamic blogging website meticulously crafted with React for th
 * Modular Component Architecture: Benefit from a well-organized and scalable codebase, enhancing maintainability and extensibility.
 * And More: Explore additional features designed to enhance your blogging experience.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<a name="demo-credentials"></a>
+### 🪪 Demo Credentials
+username: one@one.com
+password = password
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<a name="built-with"></a>
 ### 💻 Technologies Used
 Frontend: React, react-hook-forms, TinyMCE Editor
 Backend: Appwrite
@@ -106,8 +116,10 @@ State Management: Redux Toolkit
 
 
 <!-- GETTING STARTED -->
+<a name="getting-started"></a>
 ## Getting Started
 
+<a name="prerequisites"></a>
 ### Prerequisites
 Basic knowledge of **React** is required to setup this project.
 
@@ -118,6 +130,7 @@ Download latest version of npm here:
   ```
 **NOTE**: I use npm version @10.1.0 while creating this project
 
+<a name="installation"></a>
 ### Installation
 1. Signup/Login @[Appwrite](https://appwrite.io/)
 2. Setup an Appwrite Project.
@@ -163,6 +176,7 @@ Download latest version of npm here:
 
 
 <!-- CONTRIBUTING -->
+<a name="contributing"></a>
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -181,6 +195,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
+<a name="license"></a>
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -190,6 +205,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
+<a name="contact"></a>
 ## Contact
 
 Name - Falgun Patel
@@ -202,6 +218,7 @@ Project Link: [rapid-write](https://github.com/falgunmpatel/rapid-write)
 
 
 <!-- ACKNOWLEDGMENTS -->
+<a name="acknowledgement"></a>
 ## Acknowledgments
 
   1. **React Playlist** @[ChaiAurCode](https://www.youtube.com/@chaiaurcode) <br/>
